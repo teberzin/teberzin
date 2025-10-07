@@ -15,7 +15,7 @@ Alongside development, I work as a **Research Assistant @ Yaşar University**, f
 
 ## 🌐 Links
 - [Portfolio](https://bahatanoral.com)  
-- [Twitter / X](https://twitter.com/vesvesestudios)  
+- [Bluesky](https://bsky.app/profile/bahatan.bsky.social)  
 - [LinkedIn](https://tr.linkedin.com/in/bahatanoral)  
 
 ---
