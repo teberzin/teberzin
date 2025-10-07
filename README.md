@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Baha Tan Oral  
+🎮 Indie Game Designer | 🎓 Game Studies Researcher  
 
-<!--
-**teberzin/teberzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run **Vesvese Studios**, where we create PS1-style and experimental games.  
+Alongside development, I work as a **Research Assistant @ Yaşar University**, focusing on game studies, visual culture, and interactive storytelling.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+- Short-form narrative horror & experimental systems  
+- Researching **color identity** and **game/film cross-media aesthetics**  
+- Building bridges between indie craft and academic work  
+
+---
+
+## 🌐 Links
+- [Portfolio](https://bahatanoral.com)  
+- [Twitter / X](https://twitter.com/vesvesestudios)  
+- [LinkedIn](https://tr.linkedin.com/in/bahatanoral)  
+
+---
