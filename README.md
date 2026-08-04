@@ -23,7 +23,7 @@
 ├────────────────────────────────────────────────────────────────────┤
 │ ACCESS MENU                                                        │
 │                                                                    │
-│ ▶ <a href="https://bahatanoral.com">[01] PORTFOLIO</a>                 <a href="https://vesvesestudios.com">[02] VESVESE STUDIOS</a>             │
+│ ▶ <a href="https://bahatanoral.com">[01] PORTFOLIO</a>                 <a href="https://vesvesestudios.com">[02] VESVESE STUDIOS</a>              │
 │   <a href="https://tr.linkedin.com/in/bahatanoral">[03] LINKEDIN</a>                  <a href="https://bsky.app/profile/bahatan.bsky.social">[04] BLUESKY</a>                      │
 └────────────────────────────────────────────────────────────────────┘
 </pre>
