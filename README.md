@@ -1,53 +1,51 @@
-<table>
-<tr>
-<td width="43%" valign="middle">
+<div align="center">
 
-<pre>
-  =@@@##:
-=@@@@@@@@      =@@@@@@#==:
-@@@@@@@@@-  -#@@@@@@@@@@@@@@@@#==
-@@@@@@@@*-#@@@@@@@@@@@@@@@@@@@@@@@@:
- :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-  :*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
- -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*
- =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-
-  #@@@@@@@@@@@@@@@@@@@@@@@@@@#:
-     #@@@@@@@@@@@@@@@@@@@@@@:
-      @@ #@@@@@@@@@@@@@@@@=
-      @@      :=*@@@@@@#:
-     =@@            ==:
-     @@*
-</pre>
+```text
+┌────────────────────────────────────────────────────────────────────┐
+│ VESVESE SYSTEM                                             ONLINE  │
+├──────────────────────┬─────────────────────────────────────────────┤
+│                      │                                             │
+│        (  (          │ BAHA TAN ORAL                               │
+│         )  )         │ GAME DESIGNER & RESEARCHER                  │
+│      .--------.      │                                             │
+│      |        |]     │                                             │
+│      \        /      │                                             │
+│       `------'       │                                             │
+│                      │                                             │
+├──────────────────────┴─────────────────────────────────────────────┤
+│ PROGRAMS / TOOLS                                                   │
+│ UNITY · UNREAL ENGINE · CRYENGINE · PYTHON                         │
+│                                                                    │
+│ SKILLS                                                             │
+│ GAME DESIGN · GAME CINEMATOGRAPHY · INTERACTIVE MEDIA              │
+│ RESEARCH & ANALYSIS · VIDEO EDITING · DIGITAL STORYTELLING         │
+│                                                                    │
+│ > MAKE STRANGE THINGS. EXAMINE THEM SERIOUSLY.                     │
+└────────────────────────────────────────────────────────────────────┘
+```
 
-</td>
-<td width="57%" valign="middle">
+<br>
 
-<h1>Baha Tan Oral</h1>
-
-<code>GAME DESIGNER</code><br>
-<code>GAME STUDIES RESEARCHER</code><br>
-<code>FOUNDER — VESVESE STUDIOS</code>
+<strong>SELECT DESTINATION</strong>
 
 <br><br>
 
-<blockquote>
-Make strange things.<br>
-Examine them seriously.
-</blockquote>
+<a href="https://bahatanoral.com">
+  <kbd>01 / PORTFOLIO ↗</kbd>
+</a>
+&nbsp;&nbsp;
+<a href="https://vesvesestudios.com">
+  <kbd>02 / VESVESE STUDIOS ↗</kbd>
+</a>
 
-</td>
-</tr>
-</table>
+<br><br>
 
-<div align="center">
-
-<a href="https://bahatanoral.com"><kbd>01 / PORTFOLIO</kbd></a>
-&nbsp;
-<a href="https://vesvesestudios.com"><kbd>02 / VESVESE STUDIOS</kbd></a>
-&nbsp;
-<a href="https://tr.linkedin.com/in/bahatanoral"><kbd>03 / LINKEDIN</kbd></a>
-&nbsp;
-<a href="https://bsky.app/profile/bahatan.bsky.social"><kbd>04 / BLUESKY</kbd></a>
+<a href="https://tr.linkedin.com/in/bahatanoral">
+  <kbd>03 / LINKEDIN ↗</kbd>
+</a>
+&nbsp;&nbsp;
+<a href="https://bsky.app/profile/bahatan.bsky.social">
+  <kbd>04 / BLUESKY ↗</kbd>
+</a>
 
 </div>
